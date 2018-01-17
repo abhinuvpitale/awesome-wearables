@@ -1,0 +1,22 @@
+The Computer for the 21st Century - Summary
+
+The author states that a technology was reached it's zenith when it becomes a
+indistinguishable part of a user's life. Manifests of such technology are
+writing and electric motors.
+
+He envisions a future for 'Ubiquitous' computing in the form of pads, tabs and
+boards wherein the inter-device interaction and user-device interaction will be
+seamless. He wants them to attune to the user who is using them. He also quotes
+prototypes of such devices.
+
+Technological advancements required for the author's vision are low power
+displays, a flexible network to manage all the interactions and software system
+applications. It is astonishing to note his fairly accurate predictions
+regarding the displays (LED TVs), storage devices(1TB HDDs are a standard these
+days) and micro-kernel OS(Android OS). Although he fails to envision the big
+data trend and hence his statement regarding abundant space fails.
+
+He also briefly touches on the need for better cryptographic algorithms for
+security and privacy.  He concludes with an example of how the 'connected'
+society  would function by showing us a day in the life of a working woman and
+the ease with which she interacts with the 'computers' around her.

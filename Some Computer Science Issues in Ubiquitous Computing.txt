@@ -1,0 +1,21 @@
+Some Computer Science Issues in Ubiquitous Computing - Summary
+
+This article follows the theme of the previous one, where the author wants to
+seamlessly integrate computing prowess in an user's life. He lists the
+technological challenges faced by the hardware prototypes he's mentioned in the
+earlier article. These constraints are mainly in form of the need to maintain a
+balance of multitude of features(communication, memory, multimedia and ports).
+He discusses need for modular design to incorporate flexibility.
+
+The author then goes on to describe the problems faced in development of
+ubiquitous computing systems. Hardware components face problem of reducing power
+consumption with increase in performance which promotes increase in pipelining
+and parallelism. He further discusses the importance of redefining network
+protocols for incorporating wireless networks. He then focuses on problems in
+interface devices such as need for better user interaction, modularity and
+migration(cloud computing). Then he has case studies of three applications
+developed at Xerox.
+
+He also discusses the problem of privacy with respect to the location and
+central processing. He concludes by stating that the research in this domain
+will be propelled by the cross domain applications.
