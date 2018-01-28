@@ -16,3 +16,9 @@ List of Papers read for Wireless and Ubiquitous Computing
 
   - The Locust Swarm - Interested Power restricted network and an indoor location scheme using Infrared and a PIC32 [link](https://www.cc.gatech.edu/people/home/thad/p/031_20_Activity/locust-swarm-ISWC97.pdf)
   - Twiddler - One handed keyboard - [link](https://smartech.gatech.edu/bitstream/handle/1853/58/04-09.pdf;sequence=1)
+
+5. Designing Interactions - Bill Moggridge - [link](http://www.designinginteractions.com/downloads/DesigningInteractions_10.pdf)
+
+6. Sketching - Why Sketch? - Interesting overview on prototyping - [link](http://sketchbook.cpsc.ucalgary.ca/?page_id=64)
+
+7. Design for Wearablitiy - Gemperle, F.; Kasabach, C.; Stivoric, J.; Bauer, M.; Martin, R. - [link](http://ieeexplore.ieee.org/document/729537/)
