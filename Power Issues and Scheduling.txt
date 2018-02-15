@@ -1,0 +1,49 @@
+Power: A First Class Architechtural Design Constraint
+- Trevor Mudge
+
+The author explores the design perspective of devices not only based on performance but also considering its power consumption. He explains the basic power equations which prohibit lowering voltage or frequency without adversely affecting performance. He says that parallel processing is the way in which can cut the power in half without slowing the computation.
+
+The author than discusses ways for system designers to save power at the logic and architectural level. It could be done using changes to the system clock by either gating, double timing or completely eliminating it(asynchronous). The other set of changes he proposes for power saving design is to come up with architectures suited for dynamic power consumption by using parallelism and predictive systems. 
+
+To conclude the author states the need to consider power as a design constraint instead of just a consequence.
+
+
+
+
+Energy Scavenging for Mobile and Wireless Electronics
+- Joesph A Paradiso
+
+This is an interesting paper which discusses the alternative ways to meet the power consumption demands for wearable. It lists down potential sources from which power can be scavenged in the user’s environment.
+
+The list includes ambient radio frequency which is too less to be suitably utilized, ambient light which needs a large surface area for significant impact, thermoelectric generators which could typically be used to power a wearable sensor which is in contact with the skin, devices based on vibrational energy (watches), piezoelectric devices coupled with MEMS micro generators which have shown some room for improvement and power generated from human input and gait.
+
+Although there exists enough raw energy in each of these sources to power a device, we are not able to efficiently and completely utilize it.  Also energy harvesting would remove the current constraint f the wearable sensor’s battery life and rather shift it towards components life.
+
+
+
+
+Nonideal Battery Properties and their impact on Software Design for Wearable Computers
+- T. Martin, D. Siewiorek
+
+Minimizing energy delay or the energy per operation for a battery will not yield a net increase in computations per battery life which is an important constraint for wearables.
+
+The paper focuses on two characteristics of an nonideal battery which are battery capacity changing with load(which decreases with increase in load) and recovery (reduction of load for periods of time increases the capacity).
+
+Using the Doyle’s model it was concluded that the peak power is better indicator of capacity as compared to average power. It was also concluded that the recovery effect is much less as compared to the loading effect. Hence it means that the peak power is to be reduced to ensure higher battery capacity(more serial operation rather than parallel, reduce active energy rather than idle).
+
+These conclusions will be useful in designing software as now I will be aware that instead of reducing the energy spent in the idle time it is more important to distribute the peak performance power. That would ensure the device has more capacity.
+
+
+
+
+Scheduling for Reduced CPU Energy
+- M. Weiser
+
+Energy consumption is dominated by display and disk, but it is important to observe the CPU energy usage. The common approac is power down when the idle, but it could be changed to ‘minimize idle time’ instead.
+
+Dynamic control of the system clock can save energy and this is shown in an experiment performed by logs taken from UNIX log station. There were three different simulations algorithms that were tried on the logs.
+
+OPT (unbounded-delay, perfect-future) is ideal but non practical as real time future data is not available. FUTURE peered in to the ‘future’ using a small window to optimise energy over that window but it is also impractical. PAST was more practical wherein it uses a window from ‘past’ 15-30 milliseconds to adjust the speed setting algorithm with its assumption(future ~ past).
+
+The author concludes with saying that scheduling has potential to provide significant power savings and that it is efficient to spread out the workload rather than having idle time!
+
