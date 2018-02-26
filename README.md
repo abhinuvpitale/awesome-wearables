@@ -44,3 +44,11 @@ Smartwatch design Week
 14. Time and time again: parallels in the development of the watch and the wearable computer - T. Martin - [link](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1167212)
 
 15. Reconciling ICT and Wearable Design: Ten Lessons from Working with Swatch - M. Smith - [link](http://www.ece.vt.edu/tlmartin/iswc07_design_workshop/iswc2007-design-workshop-proceedings.pdf)
+
+Affective Feedback Week
+
+16. Towards incorporating affective feedback into context-aware intelligent environments - D. P. Saha, T. L. Martin, and R. B. Knapp
+
+17. Affective Feedback in a Virtual Reality Based Intelligent Supermarket - D. P. Saha, T. L. Martin, and R. B. Knapp
+
+18. Towards Defining a Quality-Metric for Affective Feedback in an Intelligent Environment - D. P. Saha, T. L. Martin, and R. B. Knapp 
