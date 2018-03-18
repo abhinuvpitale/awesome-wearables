@@ -51,4 +51,17 @@ Affective Feedback Week
 
 17. Affective Feedback in a Virtual Reality Based Intelligent Supermarket - D. P. Saha, T. L. Martin, and R. B. Knapp
 
-18. Towards Defining a Quality-Metric for Affective Feedback in an Intelligent Environment - D. P. Saha, T. L. Martin, and R. B. Knapp 
+18. Towards Defining a Quality-Metric for Affective Feedback in an Intelligent Environment - D. P. Saha, T. L. Martin, and R. B. Knapp
+
+Input Devices Week
+-> Some excellent annd quirky examples of wearable input Devices
+
+19. Design of a wearable tactile display - Gemperle, F., Ota, N., Siewiorek, D.- [link](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=962082)
+
+20. inScent: a Wearable Olfactory Display as an Amplification for Mobile Notifications - Dobbelstein, D., Herrdum, S., Rukzio, E. - [link](https://dl.acm.org/citation.cfm?id=3123035)
+
+21. Augmenting spatial awareness with Haptic Radar - Cassinelli, A., Reynolds, C. and Ishikawa, M. - [link](http://ieeexplore.ieee.org/document/4067727/)
+
+22. Airwriting: Hands-free mobile text input by spotting and continuous recognition of 3d-space handwriting with inertial sensors - Christoph Amma, Marcus Georgi, Tanja Schultz, - [link](http://ieeexplore.ieee.org/document/6246142/)
+
+23. Conductive Rubber Electrodes for Earphone-Based Eye Gesture Input Interface - Hiroyuki Manabe, Masaaki Fukumoto, and Tohru Yagi - [link](http://dl.acm.org/citation.cfm?id=2716508.2716534)
