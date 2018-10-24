@@ -44,7 +44,7 @@ Some excellent and quirky examples of wearable input Devices
 21. [Augmenting spatial awareness with Haptic Radar] - Cassinelli, A., Reynolds, C. and Ishikawa, M.
 22. [Airwriting]: Hands-free mobile text input by spotting and continuous recognition of 3d-space handwriting with inertial sensors - Christoph Amma, Marcus Georgi, Tanja Schultz,
 23. [Conductive Rubber Electrodes for Earphone-Based Eye Gesture Input Interface] - Hiroyuki Manabe, Masaaki Fukumoto, and Tohru Yagi
-24. [Human Body Heat for Powering Wearable Devices] - Moritz Thielena1, Lukas Sigristb1, Michele Magnocd, Christofer Hierolda and Luca Benini
+24. [Human Body Heat for Powering Wearable Devices] - Moritz Thielena, Lukas Sigristb, Michele Magnocd, Christofer Hierolda and Luca Benini
 
 [The Computer for the 21st Century - Mark Weiser]: <http://www.ubiq.com/hypertext/weiser/SciAmDraft3.html>
 [Some Computer Science Issues in Ubiquitous Computing - Mark Weiser]: <https://dl.acm.org/citation.cfm?id=159617>
