@@ -13,6 +13,7 @@
 5. [Designing Interactions - Bill Moggridge]
 6. [Sketching - Why Sketch?] - Interesting overview on prototyping
 7. [Design for Wearability] - Gemperle, F.; Kasabach, C.; Stivoric, J.; Bauer, M.; Martin, R.
+8. [Mobile Cloud Computing]
 
 ## Low Power Design Week!
 8. [Power] - A first-class architectural constraint - Trevor Mudge
@@ -57,6 +58,7 @@ Some excellent annd quirky examples of wearable input Devices
 [Designing Interactions - Bill Moggridge]: <http://www.designinginteractions.com/downloads/DesigningInteractions_10.pdf>
 [Sketching - Why Sketch?]: <http://sketchbook.cpsc.ucalgary.ca/?page_id=64>
 [Design for Wearability]: <http://ieeexplore.ieee.org/document/729537/>
+[Mobile Cloud Computing]: <https://arxiv.org/ftp/arxiv/papers/1206/1206.1118.pdf>
 
 [Power]: <http://ieeexplore.ieee.org/xpls/abs_all.jsp?isNumber=19820%E2%88%8F=JNL&arnumber=917539>
 [Scheduling for Reduced CPU Energy]: <http://portal.acm.org/citation.cfm?id=1267640>
