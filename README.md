@@ -37,13 +37,14 @@ This Weiser paper is an interesting article which discusses how scheduling based
 18. Towards Defining a Quality-Metric for Affective Feedback in an Intelligent Environment - D. P. Saha, T. L. Martin, and R. B. Knapp
 
 ## Input Devices Week
-Some excellent annd quirky examples of wearable input Devices
+Some excellent and quirky examples of wearable input Devices
 
 19. [Design of a wearable tactile display] - Gemperle, F., Ota, N., Siewiorek, D.
 20. [inScent]: a Wearable Olfactory Display as an Amplification for Mobile Notifications - Dobbelstein, D., Herrdum, S., Rukzio, E.
 21. [Augmenting spatial awareness with Haptic Radar] - Cassinelli, A., Reynolds, C. and Ishikawa, M.
 22. [Airwriting]: Hands-free mobile text input by spotting and continuous recognition of 3d-space handwriting with inertial sensors - Christoph Amma, Marcus Georgi, Tanja Schultz,
 23. [Conductive Rubber Electrodes for Earphone-Based Eye Gesture Input Interface] - Hiroyuki Manabe, Masaaki Fukumoto, and Tohru Yagi
+24. [Human Body Heat for Powering Wearable Devices] - Moritz Thielena, Lukas Sigristb, Michele Magnocd, Christofer Hierolda and Luca Benini
 
 [The Computer for the 21st Century - Mark Weiser]: <http://www.ubiq.com/hypertext/weiser/SciAmDraft3.html>
 [Some Computer Science Issues in Ubiquitous Computing - Mark Weiser]: <https://dl.acm.org/citation.cfm?id=159617>
@@ -73,3 +74,4 @@ Some excellent annd quirky examples of wearable input Devices
 [Augmenting spatial awareness with Haptic Radar]: <http://ieeexplore.ieee.org/document/4067727/>
 [Airwriting]: <http://ieeexplore.ieee.org/document/6246142/> 
 [Conductive Rubber Electrodes for Earphone-Based Eye Gesture Input Interface]: <http://dl.acm.org/citation.cfm?id=2716508.2716534>
+[Human Body Heat for Powering Wearable Devices]: <https://www.sciencedirect.com/science/article/pii/S0196890416310007>
